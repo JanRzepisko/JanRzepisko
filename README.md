@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jan Rzepisko</h1>
-<h3 align="center">Backend developer from Poland</h3>
+<h3 align="center">Backend Dotnet from Poland</h3>
 
-- 🔭 I’m currently working on **Eparafia**
+- 🔭 I’m currently working on **Eparafia**, **RateIt**
 
 - 📫 How to reach me **rzejan@gmail.com**
 
-- ⚡ Fun fact **I ride a bike**
+- ⚡ Fun fact **I ride a bike and run**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
