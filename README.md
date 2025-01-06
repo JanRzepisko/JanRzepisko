@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jan Rzepisko</h1>
-<h3 align="center">17 yo Backend Dotnet from Poland</h3>
+<h3 align="center">18 yo Backend Dotnet from Poland</h3>
 
 
 - 📫 How to reach me **rzejan@gmail.com**
